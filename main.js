@@ -94,3 +94,8 @@ function draw() {
 function clearCanvas() {
     ctx.clearRect(0,0,300,300);
 }
+
+//To navigate to the home page/main menu of the webpage
+function mainMenu() {
+    window.location.href='index.html';
+}

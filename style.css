@@ -24,8 +24,8 @@ body{
 }
 
 #myCanvas{
-    height:300;
-    width:300;
+    height:400;
+    width:400;
     background-color: azure;
     border: ridge yellowgreen 5px;
     margin-bottom: 40px;
@@ -61,13 +61,6 @@ p{
     border-color:rgb(132, 41, 41);
 }
 
-#nta{
-    background-color: #99cbf2;
-    border-style: ridge;
-    border-radius: 5%;
-    border-color:#6aa17d;
-}
-
 #about{
     background-color: #a3d6f7;
     width: 50%;
@@ -77,4 +70,19 @@ p{
 #Noti{
     background-color: #a3d6f7;
     width: fit-content;
+    font-size: 25px;
+}
+
+#nta{
+    background-color: #99cbf2;
+    border-style: ridge;
+    border-radius: 5%;
+    border-color:#6aa17d;
+}
+
+#ntr{
+    background-color: #b3f2ae;
+    border-style: ridge;
+    border-radius: 5%;
+    border-color: #ff0000;
 }
